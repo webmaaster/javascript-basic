@@ -1,0 +1,62 @@
+#container {
+    background-color: rgb(10, 59, 90);
+    width: 970px;
+    height: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+
+
+}
+
+div #nav-bar h1 {
+    background-color: brown;
+    width: 98%;
+    height: 60px;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 9px;
+}
+
+/* Side bar area */
+
+#home-page {
+    background-color: skyblue;
+    width: 30%;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    
+}
+
+#main-content {
+    background-color: blue;
+    color: seashell;
+    width: 60%;
+    height: 600px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+
+.clear {
+    clear: right;
+}
+
+
+/* Footer area*/
+
+footer {
+    background-color: lightslategray;
+    width: 98%;
+    height: 60px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
